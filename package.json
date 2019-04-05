@@ -1,6 +1,6 @@
 {
   "name": "npm-now",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A module to turn NPM packages into Now services",
   "main": "server.js",
   "scripts": {
